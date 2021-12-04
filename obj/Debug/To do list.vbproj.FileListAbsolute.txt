@@ -1,0 +1,15 @@
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.vbproj.AssemblyReference.cache
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To_do_list.frmtodoselect.resources
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To_do_list.Resources.resources
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.vbproj.GenerateResource.cache
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.vbproj.CoreCompileInputs.cache
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\bin\Debug\To do list.exe.config
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\bin\Debug\To do list.exe
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\bin\Debug\To do list.pdb
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\bin\Debug\To do list.xml
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.exe
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.xml
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To do list.pdb
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To_do_list.Frmlist1.resources
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To_do_list.Frmlist2.resources
+C:\Users\bjhon\Documents\Projects\School projects\To do list\To do list\obj\Debug\To_do_list.FrmList3.resources
