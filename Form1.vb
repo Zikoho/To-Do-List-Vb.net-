@@ -1,5 +1,5 @@
 ﻿Imports To_do_list.Form_names
-'Bjhon Christopher
+'Bjhon
 'November 29 2021
 'This is a to dolist application that gives the user the ability to create three different to-do-list. 
 'Intructions: Click a create list button in the first form to add another list click the "+" button in the bottom right. You will then be prompted to enter the name of your to-do-list
